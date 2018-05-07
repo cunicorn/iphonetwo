@@ -1,0 +1,268 @@
+#body{
+	width: 16rem;
+	margin-left: auto;
+	margin-right: auto;
+}
+/* 头部 */
+.hdiv{
+	width: 16rem;
+	height: 7.75rem;
+	background: url('../img/jubei.gif')no-repeat center  center /cover;
+}
+
+ ul .holio{
+	width: 0.9rem;
+	height: 0.8rem;
+}
+.holio img{
+margin-top: 1.025rem;
+	margin-left: 0.5rem;
+  width: 0.9rem;
+	height: 0.8rem;
+}
+.holitw{
+	box-sizing: border-box;
+  width: 5.75rem;
+	height: 1.375rem;
+	background-color: #F3E5D8;
+	border-radius: 0.125rem;
+	margin-left:  5.125rem;
+	padding-top:  0.19rem;
+}
+.ol{
+		width: 16rem;
+	height: 1.5rem;
+}
+.op{
+float: left;
+	width: 2.75rem;
+	height: 1rem;
+	margin-left:  5.125rem;
+	background-color: orange;
+	font-size:0.45rem;
+	line-height: 1rem;
+	color: #fff;
+	border-radius: 0.125rem;
+	text-align: center;
+	margin-left: 0.125rem;
+	margin-right: 0.1rem;
+
+}
+.cl{
+	float: right;
+	width:2rem;
+	height: 1rem;
+	font-size: 0.45rem;
+	line-height: 1rem;
+
+}
+.holith{
+		float: right;
+	width: 0.925rem;
+	height: 0.925rem;
+	margin-right: 0.625rem;
+	margin-top: -1rem;
+}
+.holith img{
+
+	width: 0.925rem;
+	height: 0.925rem;
+
+}
+.hlitw{
+	margin-top: 1.5rem;
+	width: 14.975rem;
+	height: 1.75rem;
+}
+.hltul{
+	width: 14.975rem;
+	height: 1.75rem;
+	 vertical-align: middle;
+}
+.tou{
+	float: left;
+		margin-left: 0.5rem;
+		width: 6.95rem;
+	  height: 1.75rem;
+	  vertical-align: middle;
+}
+.tou img{
+		width: 1.75rem;
+	  height: 1.75rem
+}
+.tou span{
+	font-size:0.67rem ;
+	color: #FF7F65;
+	line-height: 1.75rem;
+	font-weight: bold;
+
+}
+.xing{
+	margin-top: 0.314rem;
+	float: right;
+	width: 2.125rem;
+	height: 0.625rem;
+}
+.xing img{
+	width: 0.525rem;
+	height: 0.525rem;
+	vertical-align: middle;
+}
+.xing span{
+	font-size:0.45rem ;
+	color: #FF7F65;
+	font-weight: bold;
+	text-align: center;
+}
+.hlith{
+	width: 16rem;
+	height: 2.025rem;
+	background-color: rgba(0, 0, 0, .2);
+	font-size: 0.75rem;
+	margin-top:1rem;
+	line-height: 2.025rem;
+	text-align: center;
+}
+
+/* 内容 */
+figure{
+	margin-left: 0px;
+	margin-top: 1px;
+    margin-before:0;
+    margin-after:0;
+    margin-start: 0;
+    margin-end:0;
+}
+.ftop{
+	position: relative;
+	width: 16rem;
+	height: 5.5rem;
+}
+.ftop img{
+	width: 100%;
+	height: 100%;
+}
+.sj{
+	position: absolute;
+	top: 0;
+	z-index: 6;
+	width: 5.5rem;
+	height: 5.5rem;
+	background-color: rgba(0, 0, 0, .3);
+	font-size: 0.75rem;
+	line-height: 5.5rem;
+	text-align: center;
+	color: #fff;
+	margin-left: 5.25rem;
+}
+.fcenter{
+	position: relative;
+	width: 16rem;
+	height: 2.025rem;
+	background-color: #2F3D4C;
+}
+.fcenter img{
+	width: 0.6rem;
+	height: 0.6rem;
+	vertical-align: middle;
+	margin-left: 0.5rem;
+}
+.sen{
+	font-size: 0.5rem;
+	color: #FCF1DF;
+}
+.yugo{
+	position: absolute;
+	left:5.35rem ;top: .25rem;
+	width: 5.35rem;
+	height: 1.5rem;
+	background-color: orange;
+	border-radius: 0.125rem;
+}
+.yugo img{
+	width: 0.6rem;
+	height: 0.6rem;
+}
+.yugo span{
+	font-size: 0.6rem;
+	line-height: 1.5rem;
+	text-align: center;
+	color: #fff;
+}
+.lian{
+margin-top: 0.75rem;
+	float: right;
+	width: 3rem;
+	height: 1rem;
+	font-size: 0.6rem;
+	line-height:0.6rem;
+	text-align: center;
+	color: #fff;
+}
+.lian img{
+	width: 0.6rem;
+	height: 0.6rem;
+}
+.fbottom{
+	overflow: hidden;
+	width: 16rem;
+	height: 5rem;
+	background: url('../img/jubei.gif') no-repeat left top /cover;
+}
+.fbottom ul{
+	margin-top: 1rem;
+}
+.bas{
+	margin-top: 0.6rem;
+	margin-left: 0.6rem;
+  font-size: 0.75rem;
+}
+
+
+/* 底部 */
+footer{
+	margin-top: -0.9rem;
+}
+.rtop{
+	margin-top: ;
+	width: 16rem;
+	height: 5.5rem;
+}
+.rtop img{
+	width: 16rem;
+	height: 5.5rem;
+}
+.rbottom{
+position: relative;
+	width: 16rem;
+	height: 2.025rem;
+	background-color: #2F3D4C;
+}
+.rbottom img{
+	width: 0.6rem;
+	height: 0.6rem;
+	vertical-align: middle;
+	margin-left: 0.5rem;
+}
+.sen2{
+	font-size: 0.5rem;
+	color: #FCF1DF;
+}
+.yugo2{
+	position: absolute;
+	left:5.35rem ;top: .25rem;
+	width: 5.35rem;
+	height: 1.5rem;
+	background-color: orange;
+	border-radius: 0.125rem;
+}
+.yugo2 img{
+	width: 0.6rem;
+	height: 0.6rem;
+}
+.yugo2 span{
+	font-size: 0.6rem;
+	line-height: 1.5rem;
+	text-align: center;
+	color: #fff;
+}
